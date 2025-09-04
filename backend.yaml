@@ -59,7 +59,7 @@
         name: all
         login_user: root
         login_password: ExpenseApp@1
-        login_host: mysql.daws.online
+        login_host: 172.31.17.147
         target: /app/schema/backend.sql
 
     - name: daemon reload and restart service
